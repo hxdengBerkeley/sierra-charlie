@@ -1,4 +1,4 @@
-FROM fedora:latest
+FROM fedora:lastest
 
 MAINTAINER Gerry Casey <gerard.casey@arup.com>
 
